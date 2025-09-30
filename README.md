@@ -44,6 +44,9 @@ npm start
 3. Scores will be tracked on the leaderboard with transaction status (pending, confirmed, failed).
 4. Top scores can be displayed and optionally rewarded with crypto.
 
+
+Note
+
 - Replace 0xLeaderboardContractHere in leaderboardService.ts with the actual smart contract address.
 - Currently, demo scores are randomly generated; you can replace with actual game or trading scores.
 - ETH is used as optional proof-of-score; you can expand to support other tokens.
